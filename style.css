@@ -115,15 +115,30 @@ a
     margin-bottom: 3px;
 }
 
+h1.Referencias
+
+{
+    background-color: lightgrey;
+    color: brown;
+}
+
+ul.Referencias
+
+{
+    margin-bottom: 200px;
+}
+
 footer
 
 {
     position: fixed;
-    background-color: floralwhite;
-    border: solid 1px black;
-    text-align: center;
+    bottom: 1px;
+    margin-bottom: 0;
     width: 100%;
-    height: max-content;
+    color: black;
+    background-color: floralwhite;
+    border-top: solid 1px black;
+    text-align: center;
 }
 
 :link {
