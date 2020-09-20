@@ -86,11 +86,17 @@ ul
 {
     top: 3px;
     background-color: white;
-    font-size: 120%;
+    font-size: 14pt;
     width: 80%;
     text-align: left;
     padding: 2%;
     margin-left: 5%;
+}
+
+li
+
+{
+    font-size: 14pt;
 }
 
 section.letras
