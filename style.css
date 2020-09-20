@@ -119,10 +119,13 @@ a
     margin-bottom: 3px;
 }
 
-pre
+footer
+
 {
-    display: flex;
-    flex-direction: column;
+    position: fixed;
+    background-color: floralwhite;
+    border: solid 1px black;
+    text-align: center;
 }
 
 :link {
