@@ -63,9 +63,8 @@ h1
     text-align: left;
     padding-left: 10px;
     padding: 5px;
-    background-color: lightcoral;
-    border-left: solid 2px black;
-    border-top: solid 3px black;
+    background-color: lightblue;
+    border-top: dotted 3px black;
 }
 
 h1.header
@@ -123,6 +122,8 @@ footer
     background-color: floralwhite;
     border: solid 1px black;
     text-align: center;
+    width: 100%;
+    height: max-content;
 }
 
 :link {
